@@ -1,10 +1,6 @@
 # 🚀 Parth Vinay Bhagwat – Portfolio Website
 
-Welcome to my personal project showcase!  
-This website highlights some of my best work in machine learning, data analysis, and full-stack projects.
-
-🔗 **Live Portfolio:**  
-👉 [https://parthbhagwat22.github.io](https://parthbhagwat22.github.io)
+🎯 <a href="https://parthbhagwat22.github.io" target="_blank">Visit My Live Portfolio</a>
 
 ---
 
